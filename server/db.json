@@ -1,0 +1,41 @@
+{
+  "Alunos": [
+    {
+      "Nome": "kaue",
+      "idade": "21",
+      "genero": "M",
+      "id": 1,
+      "Periodizacao": {
+        "Segunda": [],
+        "Terça": [],
+        "Quarta": [],
+        "Quinta": [],
+        "Sexta": [],
+        "Sábado": [],
+        "Domingo": []
+      }
+    },
+    {
+      "Nome": "dais",
+      "idade": "28",
+      "genero": "F",
+      "id": 2,
+      "Periodizacao": {
+        "Segunda": [],
+        "Terça": [],
+        "Quarta": [],
+        "Quinta": [],
+        "Sexta": [],
+        "Sábado": [],
+        "Domingo": []
+      }
+    },
+    {
+      "Nome": "joao",
+      "idade": "21",
+      "genero": "M",
+      "Periodizacao": [],
+      "id": 3
+    }
+  ]
+}
